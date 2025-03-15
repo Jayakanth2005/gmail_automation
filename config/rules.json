@@ -1,0 +1,69 @@
+[
+    {
+        "field": "Subject",
+        "predicate": "Contains",
+        "value": "Payment Confirmation",
+        "rule_predicate": "All",
+        "action": "Mark as Unread"
+    },
+    {
+        "field": "From",
+        "predicate": "Equals",
+        "value": "no-reply@abc.com",
+        "rule_predicate": "Any",
+        "action": "Mark as Important"
+    },
+    {
+        "field": "Body",
+        "predicate": "Contains",
+        "value": "urgent",
+        "rule_predicate": "All",
+        "action": "Flag"
+    },
+    {
+        "field": "From",
+        "predicate": "Ends With",
+        "value": "@spam.com",
+        "rule_predicate": "Any",
+        "action": "Move to Junk"
+    },
+    {
+        "field": "Subject",
+        "predicate": "Starts With",
+        "value": "Newsletter",
+        "rule_predicate": "All",
+        "action": "Move to Spam"
+    },
+    {
+        "field": "Attachments",
+        "predicate": "Exists",
+        "value": "",
+        "rule_predicate": "All",
+        "action": "Mark as Read"
+    },
+    {
+        "field": "To",
+        "predicate": "Equals",
+        "value": "me@mydomain.com",
+        "rule_predicate": "Any",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "field": "from_email",
+        "predicate": "Contains",
+        "value": "ceo@company.com",
+        "action": "Auto-Reply"
+    },
+    {
+        "field": "subject",
+        "predicate": "Contains",
+        "value": "Job Offer",
+        "action": "Move to Folder: Career"
+    },
+    {
+        "field": "subject",
+        "predicate": "Contains",
+        "value": "Meeting",
+        "action": "Flag"
+    }
+]

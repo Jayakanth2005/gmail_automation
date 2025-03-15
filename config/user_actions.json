@@ -1,0 +1,254 @@
+[
+    {
+        "email_id": 101,
+        "field": "subject",
+        "value": "Job Offer",
+        "action": "Move to Folder: Career"
+    },
+    {
+        "email_id": 102,
+        "field": "subject",
+        "value": "Job Offer",
+        "action": "Move to Folder: Career"
+    },
+    {
+        "email_id": 103,
+        "field": "subject",
+        "value": "Job Offer",
+        "action": "Move to Folder: Career"
+    },
+    {
+        "email_id": 104,
+        "field": "from_email",
+        "value": "ceo@company.com",
+        "action": "Auto-Reply"
+    },
+    {
+        "email_id": 105,
+        "field": "from_email",
+        "value": "ceo@company.com",
+        "action": "Auto-Reply"
+    },
+    {
+        "email_id": 106,
+        "field": "from_email",
+        "value": "ceo@company.com",
+        "action": "Auto-Reply"
+    },
+    {
+        "email_id": 107,
+        "field": "subject",
+        "value": "Meeting",
+        "action": "Flag"
+    },
+    {
+        "email_id": 108,
+        "field": "subject",
+        "value": "Meeting",
+        "action": "Flag"
+    },
+    {
+        "email_id": 109,
+        "field": "subject",
+        "value": "Meeting",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 129,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 118,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 129,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 118,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 129,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 129,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 118,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 129,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 86,
+        "field": "\"subject\"",
+        "value": "Meeting",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 129,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 118,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 129,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 118,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 129,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 129,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 118,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 129,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 86,
+        "field": "\"subject\"",
+        "value": "Meeting",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 129,
+        "field": "\"subject\"",
+        "value": "Payment Confirmation",
+        "action": "Mark as Unread"
+    },
+    {
+        "email_id": 118,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 129,
+        "field": "\"from_email\"",
+        "value": "no-reply@abc.com",
+        "action": "Mark as Important"
+    },
+    {
+        "email_id": 118,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 129,
+        "field": "\"message_body\"",
+        "value": "urgent",
+        "action": "Flag"
+    },
+    {
+        "email_id": 118,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 129,
+        "field": "\"label\"",
+        "value": "",
+        "action": "Mark as Read"
+    },
+    {
+        "email_id": 118,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 129,
+        "field": "\"to_email\"",
+        "value": "me@mydomain.com",
+        "action": "Move to Folder: Personal"
+    },
+    {
+        "email_id": 86,
+        "field": "\"subject\"",
+        "value": "Meeting",
+        "action": "Flag"
+    }
+]
