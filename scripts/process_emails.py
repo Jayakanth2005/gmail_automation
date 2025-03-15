@@ -71,6 +71,10 @@ def apply_rules():
         if predicate in EMAIL_QUERIES:
             query = EMAIL_QUERIES[predicate].format(field=field)
 
+        if not value and predicate != "Exists":
+            print(f"⚠️ Skipping rule with empty value: {rule}")
+            continue
+
         # Construct queries based on predicate
         if predicate == "Contains":
             cursor.execute(query, (f"%{value}%",))
