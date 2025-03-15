@@ -129,22 +129,12 @@ python scripts/scheduler.py
 
 ---
 
-💪 **Contributing**  
-1. Fork the repo & create a new branch (`feature-xyz`).  
-2. Make changes and test thoroughly.  
-3. Submit a **pull request** with details.  
 
----
-
-📚 **License**  
-This project is licensed under the **MIT License**. See `LICENSE` for details.
-
----
 
  ✨ **Author & Credits**  
 👤 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourusername)  
+📧 jai06032005@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jayakanth-sivakumar-434851257/) | [GitHub]((https://github.com/Jayakanth2005)  
 
 ---
 
